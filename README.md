@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This dev is currently in development. Thank you for your patience
 
 <!--
 **Cortinarius-I/Cortinarius-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
